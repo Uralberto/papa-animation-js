@@ -1,1 +1,1 @@
-# papa-animation-js
+# papa-animation-js, práctica de animaciones imágen .svg
