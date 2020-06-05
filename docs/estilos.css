@@ -1,0 +1,12 @@
+
+.container{
+display: flex;
+justify-content: center;
+
+}
+
+
+.dadContainer {
+    background-color: rgb(49, 48, 48);
+    padding: 5% 5% 5% 5%;
+}
